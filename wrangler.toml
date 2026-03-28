@@ -5,4 +5,4 @@ pages_build_output_dir = "."
 [[d1_databases]]
 binding = "DB"
 database_name = "credit-tool-db"
-database_id = "bbdc2108-d421-49b1-baa6-9325dcae7ef8"
+database_id = "03c06084-3525-44c9-bba9-cd2c58ec940e"
